@@ -2,6 +2,6 @@
 
 Nama 			: Luthfi Khalid
 Email 			: khd.work20@gmail.com
-OS yang digunakan 	: Windows
-Akun GitHub 		: khalid3275
-Akun Telegram 		: @LuthfiKhalid
+OS              : Windows
+Akun GitHub 	: khalid3275
+Akun Telegram 	: @LuthfiKhalid
