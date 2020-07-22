@@ -4,6 +4,7 @@ var kataPertama = "saya";
 var kataKedua = "senang";
 var kataKetiga = "belajar";
 var kataKeempat = "javascript";
+var kataKedua = "Senang"
 var kataKeempat = kataKeempat.toUpperCase();
 
 console.log(kataPertama + " " + kataKedua + " " + kataKetiga + " " + kataKeempat);
